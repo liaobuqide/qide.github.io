@@ -4,4 +4,4 @@ The first blog of myself. Happy for the github day
 
 
 
-![Image](images/goupibutong.png)
+![Image](images/logo.png)
